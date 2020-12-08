@@ -1,7 +1,7 @@
 # David DeRemer
 ## President, Very Good Ventures
 
-[![Very Good Ventures](https://raw.githubusercontent.com/VGVentures/very_good_analysis/main/assets/vgv_logo.png)](https://verygood.ventures)
+[![Very Good Ventures](https://github.com/VGVentures/Very-Good-Brand/raw/main/logos/icon-unicorn/unicorn-vgv-black-inset-round.png)](https://verygood.ventures)
 
 ---
 
