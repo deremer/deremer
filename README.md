@@ -1,5 +1,5 @@
 # David DeRemer
-## Found & CEO, Very Good Ventures
+## Founder & CEO, Very Good Ventures
 
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
@@ -11,7 +11,7 @@
 
 ---
 
-My name is David, and I am the President of [Very Good Ventures](https://verygood.ventures)
+My name is David, and I am the Founder & CEO of [Very Good Ventures](https://verygood.ventures)
 
 - 🔭  I’m currently working on [Very Good Ventures](https://github.com/VGVentures)
 - 👯  I’m looking to collaborate on [Flutter](https://flutter.dev)
